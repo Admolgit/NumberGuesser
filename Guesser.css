@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1800px;
+    margin: 25px 5rem;
+}
+
+#game p {
+    padding: 1em 0;
+}
+
+#guess-input {
+    width: 20%;
+    padding: 1em;
+    border: 1px solid grey;
+}
+
+#guess-btn {
+    width: 8%;
+    padding: 0.9em;
+}
